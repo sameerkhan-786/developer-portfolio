@@ -1,4 +1,4 @@
-# K.R. MANGALAM UNIVERSITY | B.Tech CSE | LEARNING ROADMAP
+# K.R. MANGALAM UNIVERSITY | bca(ai&ds) | LEARNING ROADMAP
 Name: Sameer Khan | Roll No.: 2601060232
 Updated: 23 November 2026
 
