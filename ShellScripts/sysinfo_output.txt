@@ -1,0 +1,9 @@
+Name: Sameer Khan | Roll No: 2601060232 | Date: Thu Nov 26 13:34:29 UTC 2026
+CPU: Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz, Cores: 4
+Total Memory: 2.8Gi, Used Memory: 372Mi
+Top 3 processes by CPU:
+    PID COMMAND         %CPU
+    732 ps              20.0
+      1 systemd          1.4
+    134 systemd-udevd    0.6
+Report generated successfully.
